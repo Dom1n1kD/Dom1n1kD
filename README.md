@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dom1n1kD
-- 👀 I’m interested in data engineering and everything else related to data
-- 🌱 I’m currently learning python and building my second brain :deciduous_tree: 
+- 👀 I love everything related to data
+- 🌱 I’m currently building my second brain and writing my masters thesis.
 
 <!---
 Dom1n1kD/Dom1n1kD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
